@@ -1,0 +1,3 @@
+{
+    "haselerdev.aiquickfix.problemPrefix": " VALUES ('$title', '$artist', '$album', '$genre', '$mood', '$file_path')\";"
+}
